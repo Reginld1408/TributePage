@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ 
+ </head>
+  <body>
+  
+   <div id="main">
+    
+     <hi id="title"><strong>Bob Ross</strong></h1>
+     <p>American painter</p>
+   </div>
+     <div>
+       <img src="the-joy-of-painting.png">
+            </div>
+ 
+  </body>
+
+</html>
+ 
+ 
+ 
