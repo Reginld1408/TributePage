@@ -1,22 +1,80 @@
-<!DOCTYPE html>
+
+ <!DOCTYPE html>
+
 <html>
+   
  <head>
  
+   <link rel="stylesheet" type="text/css" href="/home/cs/Desktop/CSS/tribute.css">
+
  </head>
-  <body>
+  
+ <body>
   
    <div id="main">
+   <main id="main">
     
-     <hi id="title"><strong>Bob Ross</strong></h1>
-     <p>American painter</p>
+     <h1 id="title"><strong>Bob Ross</strong></h1>
+    <p>American Painter</p>
    </div>
-     <div>
-       <img src="the-joy-of-painting.png">
-            </div>
- 
-  </body>
+     
+    <div id="img-div">
+      <div class="row">
+         <div class="column"></div>
+         <div class="column">
+       <img src ="https://pyxis.nymag.com/v1/imgs/bc7/67d/6b322b1cb34f9a4f07738eccfea5c5a992-10-bob-ross.2x.h473.w710.jpg" alt ="Bob Ross" id="image">
+       <img src="https://render.fineartamerica.com/images/images-profile-flow/400/images-medium-large-5/mountain-morning-c-steele.jpg" alt="paintingthree" id="image">
+       <img src="https://instagram.fymy1-1.fna.fbcdn.net/v/t51.2885-15/e35/47090660_377645139674504_538226205629658860_n.jpg?_nc_ht=instagram.fymy1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=gbJ8VfhlUc4AX-b413L&oh=2be13d0d19f8ca387c77c0e65bc3395a&oe=5F114D8D" alt="large" id="image">
+       
+      </div>
+      
+      <div class="column">
+       <img src="https://lmsatfnya.weebly.com/uploads/1/0/7/6/10760768/5913922_orig.jpg" alt="another" id="image">
+       <img src="https://static01.nyt.com/images/2019/07/13/arts/bob-ross-oak_campfire/bob-ross-oak_campfire-articleLarge.jpg?quality=75&auto=webp&disable=upscale" alt="paintingfour" id="image">
+       <img src ="https://render.fineartamerica.com/images/images-profile-flow/400/images-medium-large-5/mountain-sunset-c-steele.jpg" alt="painting" id="image">
+       
+      </div>
+
+      </div>
+
+       <p id="image-caption"><em>The King of ASMR<em><br></p>
+       
+       </div>
+
+       <div id="tribute-info">
+
+        
+        <br><p>We don't make mistakes, just happy little accidents.<br>
+            
+           
+            <br>Talent is a pursued interest. Anything that you're willing 
+            to practice, you can do.<br>
+         
+            <br>There's nothing wrong with having a tree as a friend.<br>
+          
+            <br>I guess I'm a little weird. I like to talk to trees and animals.<br> 
+            That's okay though; I have more fun than most people.<br>
+            
+            <br>Let's get crazy.<br>
+
+            <br>There are no mistakes, only happy accidents.<br>
+          
+            <br>The secret to doing anything is believing that you can do it.<br>
+            Anything that you believe you can do strong enough, you can do.<br> 
+            Anything. As long as you believe.<br>
+            
+            <br>All you need to paint is a few tools, a little instruction,<br>
+            and a vision in your mind.<br>
+         
+            <br>wash the brush, just beats the devil out of it<br></p>
+        </div>
+        <div id="tribute-link"><a href ="https://en.wikipedia.org/wiki/Bob_Ross" target="_blank">Learn more about Bob Ross</a>
+        </div>
+        
+    </div>
+  
+ </body>
 
 </html>
- 
  
  
