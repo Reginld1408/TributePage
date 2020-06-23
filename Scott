@@ -1,5 +1,4 @@
-
- <!DOCTYPE html>
+<!DOCTYPE html>
 
 <html>
    
@@ -20,25 +19,24 @@
      
     <div id="img-div">
       <div class="row">
-         <div class="column"></div>
+      <div class="column"></div>
          <div class="column">
-       <img src ="https://pyxis.nymag.com/v1/imgs/bc7/67d/6b322b1cb34f9a4f07738eccfea5c5a992-10-bob-ross.2x.h473.w710.jpg" alt ="Bob Ross" id="image">
-       <img src="https://render.fineartamerica.com/images/images-profile-flow/400/images-medium-large-5/mountain-morning-c-steele.jpg" alt="paintingthree" id="image">
-       <img src="https://instagram.fymy1-1.fna.fbcdn.net/v/t51.2885-15/e35/47090660_377645139674504_538226205629658860_n.jpg?_nc_ht=instagram.fymy1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=gbJ8VfhlUc4AX-b413L&oh=2be13d0d19f8ca387c77c0e65bc3395a&oe=5F114D8D" alt="large" id="image">
-       
-      </div>
+          <img src ="https://pyxis.nymag.com/v1/imgs/bc7/67d/6b322b1cb34f9a4f07738eccfea5c5a992-10-bob-ross.2x.h473.w710.jpg" alt ="Bob Ross" id="image">
+          <img src="https://render.fineartamerica.com/images/images-profile-flow/400/images-medium-large-5/mountain-morning-c-steele.jpg" alt="paintingthree" id="image">
+          <img src="https://instagram.fymy1-1.fna.fbcdn.net/v/t51.2885-15/e35/47090660_377645139674504_538226205629658860_n.jpg?_nc_ht=instagram.fymy1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=gbJ8VfhlUc4AX-b413L&oh=2be13d0d19f8ca387c77c0e65bc3395a&oe=5F114D8D" alt="large" id="image">
+         </div>
       
       <div class="column">
        <img src="https://lmsatfnya.weebly.com/uploads/1/0/7/6/10760768/5913922_orig.jpg" alt="another" id="image">
        <img src="https://static01.nyt.com/images/2019/07/13/arts/bob-ross-oak_campfire/bob-ross-oak_campfire-articleLarge.jpg?quality=75&auto=webp&disable=upscale" alt="paintingfour" id="image">
        <img src ="https://render.fineartamerica.com/images/images-profile-flow/400/images-medium-large-5/mountain-sunset-c-steele.jpg" alt="painting" id="image">
-       
       </div>
-      </div>
-      
+
+  </div>
+
        <p id="image-caption"><em>The King of ASMR<em><br></p>
        
-      </div>
+       </div>
 
        <div id="tribute-info">
 
