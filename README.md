@@ -1,5 +1,5 @@
 # TributePage
 First Project
 
-This is my Tribute page from a Free Code Camp CSS/HTML Project.
+This is a Bob Ross Tribute page for my coding portfolio.
 
